@@ -1,0 +1,6 @@
+c:\users\anh tien\documents\visual studio 2013\Projects\baitap2-LTM\Server\bin\Debug\Server.exe.config
+c:\users\anh tien\documents\visual studio 2013\Projects\baitap2-LTM\Server\bin\Debug\Server.exe
+c:\users\anh tien\documents\visual studio 2013\Projects\baitap2-LTM\Server\bin\Debug\Server.pdb
+c:\users\anh tien\documents\visual studio 2013\Projects\baitap2-LTM\Server\obj\Debug\Server.csprojResolveAssemblyReference.cache
+c:\users\anh tien\documents\visual studio 2013\Projects\baitap2-LTM\Server\obj\Debug\Server.exe
+c:\users\anh tien\documents\visual studio 2013\Projects\baitap2-LTM\Server\obj\Debug\Server.pdb

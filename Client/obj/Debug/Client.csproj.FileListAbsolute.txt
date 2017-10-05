@@ -1,0 +1,5 @@
+c:\users\anh tien\documents\visual studio 2013\Projects\baitap2-LTM\Client\bin\Debug\Client.exe.config
+c:\users\anh tien\documents\visual studio 2013\Projects\baitap2-LTM\Client\bin\Debug\Client.exe
+c:\users\anh tien\documents\visual studio 2013\Projects\baitap2-LTM\Client\bin\Debug\Client.pdb
+c:\users\anh tien\documents\visual studio 2013\Projects\baitap2-LTM\Client\obj\Debug\Client.exe
+c:\users\anh tien\documents\visual studio 2013\Projects\baitap2-LTM\Client\obj\Debug\Client.pdb
